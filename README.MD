@@ -4,7 +4,7 @@ min hjemmeside
 
 
 ## Projekter i programering C
-[hjemmeside](https://kragh03.github.io/)
+[hjemmeside](hjemmeside)
 [JimisDrengerøvsHjemmeside](https://jimiemil.github.io/)
 
 
