@@ -4,8 +4,8 @@ min hjemmeside
 
 
 ## Projekter i programering C
-[hjemmeside](hjemmeside)
-[JimisDrengerøvsHjemmeside](https://jimiemil.github.io/)
+- [hjemmeside](hjemmeside)
+- [JimisDrengerøvsHjemmeside](https://jimiemil.github.io/)
 
 
 
