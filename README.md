@@ -7,6 +7,7 @@ min hjemmeside
 - [hjemmeside (amg)](hjemmeside/forside.html)
 - [JimisDrengerøvsHjemmeside](https://jimiemil.github.io/)
 - [tændstikkemand](tændstikkemand/)
+- [tændstikkemand2](tændstikkemand 2/)
 
 
 
