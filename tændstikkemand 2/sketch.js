@@ -2,7 +2,7 @@ let x = 0;
 let b= 50
 let c= 0
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowHeight, windowWidth);
   noLoop();
 }
 
@@ -20,7 +20,7 @@ if(b>width){
 }
   
   
-  line(x, 100, x, height - 100);
+  line(x, 100, x, height - 370);
   circle(x, 100, b);
   line(x - 1, 180, x - 60, 60)
   line(x + 1, 180, x + 60, 60)
