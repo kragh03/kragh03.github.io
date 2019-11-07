@@ -8,6 +8,7 @@ min hjemmeside
 - [JimisDrengerøvsHjemmeside](https://jimiemil.github.io/)
 - [tændstikkemand](tændstikkemand/)
 - [tændstikkemand2](tændstikkemand 2/)
+- [fysikformel](fysik formel/)
 
 
 
