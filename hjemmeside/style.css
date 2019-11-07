@@ -1,0 +1,32 @@
+
+  
+  body {
+        background-image: url(giphy.gif);
+background-repeat: no-repeat;
+background-color:red ;
+background-position-x: center;
+background-position-y: center;
+      }
+
+      
+       /* unvisited link */
+    a:link {
+        color: red;
+      }
+      
+      /* visited link */
+      a:visited {
+        color: green;
+      }
+      
+      /* mouse over link */
+      a:hover {
+        color: hotpink;
+      }
+      
+      /* selected link */
+      a:active {
+        color: blue;
+      }
+  
+      
