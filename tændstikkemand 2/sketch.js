@@ -20,7 +20,7 @@ if(b>width){
 }
   
   
-  line(x, 100, x, height - 370);
+  line(x, 100, x, height - 100);
   circle(x, 100, b);
   line(x - 1, 180, x - 60, 60)
   line(x + 1, 180, x + 60, 60)
