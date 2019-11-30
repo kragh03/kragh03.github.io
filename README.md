@@ -4,7 +4,7 @@ min hjemmeside
 
 
 ## Projekter i programering C
-- [hjemmeside (amg)](hjemmeside/amg.html)
+- [hjemmeside (amg)](hjemmeside/)
 - [JimisDrengerøvsHjemmeside](https://jimiemil.github.io/)
 - [tændstikkemand](tændstikkemand/)
 - [tændstikkemand2](tændstikkemand 2/)
