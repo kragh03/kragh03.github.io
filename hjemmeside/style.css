@@ -1,12 +1,20 @@
+body, html {
+  height: 100%;
+}
 
-  
-  body {
-        background-image: url(giphy.gif);
-background-repeat: no-repeat;
-background-color:red ;
-background-position-x: center;
-background-position-y: center;
-      }
+.bg {
+  /* The image used */
+  background-image: url("(giphy.gif");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ 
 
       
        /* unvisited link */
