@@ -10,6 +10,7 @@ min hjemmeside
 - [tændstikkemand2](tændstikkemand 2/)
 - [fysikformel](fysik formel/)
 - [360](360/)
+- [spil](spil/)
 
 
 
